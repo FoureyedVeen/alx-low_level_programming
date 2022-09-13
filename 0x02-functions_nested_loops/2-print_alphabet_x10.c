@@ -6,11 +6,11 @@
  * Return: always 0
  *
  */
-void print_alphabet_x10(void);
+void print_alphabet_x10(void)
 {
 	int i;
 	int j;
-
+	
 	for (j = 0; j <= 9; j++)
 	{
 		for (i = 'a'; i <= 'z'; i++)
