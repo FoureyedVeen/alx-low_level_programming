@@ -3,19 +3,19 @@
 /**
  * print_sign - main function
  *
- * @n: character to compare
+ * @r: character to compare
  *
  * Return: 1 if positive
  *
  */
-int print_sign(int n)
+int print_sign(int r)
 {
-	if (n > 0)
+	if (r > 0)
 	{
 		_putchar('+');
 		return (1);
 	}
-	if (n == 0)
+	if (r == 0)
 	{
 		_putchar ('0');
 		return (0);
