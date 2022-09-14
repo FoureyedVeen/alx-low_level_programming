@@ -3,7 +3,7 @@
 /**
  * print_sign - main function
  *
- * @r: character to compare
+ * @n: character to compare
  *
  * Return: 1 if positive
  *
