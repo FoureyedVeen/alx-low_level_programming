@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * main - a function that prints 50 fibonacci numbers
  *
- * Return - nothing
+ * Return: Always 0
  *
  */
 int main(void)
