@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * print_numbers - print numbers
+ * main - print numbers
  *
  * Return: always return 0
  *
  */
-void print_numbers(void)
+void main(void)
 {
 	int i = 0;
 
@@ -15,4 +15,5 @@ void print_numbers(void)
 		_putchar(i);
 	}
 	_putchar("\n");
+	return (0);
 }
