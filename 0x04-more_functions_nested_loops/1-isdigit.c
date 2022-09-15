@@ -2,9 +2,9 @@
 
 /**
  * _isdigit - the function prints out a digit
- *
  * @c: character to be used
- * Return: gives 0 or 1
+ *
+ * Return: gives 1 or 0
  *
  */
 int _isdigit(int c)
