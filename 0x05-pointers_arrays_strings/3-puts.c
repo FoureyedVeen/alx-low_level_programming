@@ -1,7 +1,7 @@
 #include "main.h"
 
 /*
- * _puts - puts a string
+ * _puts -  a function that prints a string, followed by a new line, to stdout
  * @str: the string to print
  *
  * Return: void
