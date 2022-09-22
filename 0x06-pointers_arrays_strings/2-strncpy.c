@@ -1,4 +1,4 @@
-#includem "main.h"
+#include "main.h"
 
 /**
  * _strncpy - function that copies at most n byte
