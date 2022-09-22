@@ -18,7 +18,7 @@ char *cap_string(char *s)
 		{
 			if (i)
 			{
-				for (j = 0; ws[j] && ws[j] != s[i - 1] ++j)
+				for (j = 0; ws[j] && ws[j] != s[i - 1]; ++j)
 					;
 			}
 			if (ws[j])
