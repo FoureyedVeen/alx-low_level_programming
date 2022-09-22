@@ -15,7 +15,7 @@ void print_buffer(char *b, int size)
 
 	for (b_pos = 0; b_pos < size; b_pos += 10)
 	{
-		printf("%08x: ", b_pos)
+		printf("%08x: ", b_pos);
 		{
 			for (l_pos = 0; l_pos < 10; ++l_pos)
 			{
