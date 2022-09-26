@@ -4,7 +4,7 @@
 /**
  * _memset - function that fills memory with a constant byte
  * @s: string
- * @b: a character 
+ * @b: a character
  * @n: an integer
  *
  * Return: a string
