@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
  * print_diagsums - print diagonal summaries
@@ -15,7 +16,7 @@ void print_diagsums(int *a, int size)
 	for (i = 0; i < size; i++)
 	{
 		dia1 += a[(i * size) + i];
-		dia2 += a[(size - i) + ((size - 1) * i);
+		dia2 += a[(size - i) + ((size - 1) * i)];
 	}
 	printf("%d, %d\n", dia1, dia2);
 }
