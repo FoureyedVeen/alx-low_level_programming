@@ -2,9 +2,9 @@
 
 /**
  * _strspn - search a string for a set of bytes
- * @src: source string
+ * @s: source string
  * @accept: accepted string
- * 
+ *
  * Return: number of bytes in the init segment
  *
  */
