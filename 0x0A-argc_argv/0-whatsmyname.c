@@ -2,7 +2,7 @@
 
 /**
  * main - function to print its name
- * @argc: agrc parameter
+ * @argc: argc parameter
  * @argv: an array of command listed
  * Return: 0 for success
  *
