@@ -23,6 +23,6 @@ while (p < i)
 s[p] = str[p];
 p++;
 }
-s[p] = '\0'
+s[p] = '\0';
 return (s);
 }
