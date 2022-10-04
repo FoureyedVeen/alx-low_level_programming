@@ -13,7 +13,7 @@ char *s;
 
 if (s1 = NULL)
 s1 = "";
-if (s2 = NULL0
+if (s2 = NULL)
 s2 = "";
 while (s1[i])
 i++;
