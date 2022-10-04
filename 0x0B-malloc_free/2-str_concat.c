@@ -24,7 +24,7 @@ l = i + j;
 s = (char *)malloc(l * sizeof(char) + 1);
 if (s == NULL)
 return (NULL);
-J = 0;
+j = 0;
 while(k < i)
 {
 if (k < i)
