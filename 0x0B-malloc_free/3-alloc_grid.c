@@ -40,5 +40,3 @@ t[i] = (int *)malloc(sizeof(int) * width);
 
 	return (t);
 }
-}
-}
